@@ -1,2 +1,2 @@
 # Python-fundamental
-Learn Python From Newbie to Pro
+Learn Fundamental Python 
